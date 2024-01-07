@@ -5,7 +5,7 @@ backports.zoneinfo==0.2.1
 beautifulsoup4==4.12.2
 blinker==1.6.3
 cachetools==5.3.2
-certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+certifi==2023.11.17
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
