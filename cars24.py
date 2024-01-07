@@ -43,4 +43,6 @@ if st.button("Predict"):
 st.write("Click on predict once you're done with the data")
 
 
+##pip freeze > requirements.txt
+
 
